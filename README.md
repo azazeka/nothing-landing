@@ -11,11 +11,9 @@ Technologies Used
 	•	Google Fonts: Space Grotesk and Space Mono fonts are imported for typography.
 	•	Favicon: Custom favicon is added for branding.
 
-Preview
+[Preview](https://azazeka.github.io/nothing-landing/)
 
-https://azazeka.github.io/nothing-landing/
+[Design Mockup](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139)
 
-Design Mockup
 
-https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139
 
