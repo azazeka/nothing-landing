@@ -25,6 +25,8 @@
     }
 
     &--image {
+      will-change: transform;
+
       @include animation-menu;
 
       width: 100%;
